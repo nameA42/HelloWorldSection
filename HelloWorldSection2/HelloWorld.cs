@@ -25,5 +25,13 @@ namespace HelloWorldSection2
             return worldMsg;
         }
 
+        //Func<string> b = helloWorlder;
+
+        //static Dictionary<string, Func<int, int, int>> coolMap = new Dictionary<string, Func<int, int, int>>
+        //{
+        //    {"hey, add these integers", (a, b) => a+b}
+        //};
+
+        //int c = coolMap["hey, add these integers"](coolMap["hey, add these integers"](1, 2), 4);
     }
 }
